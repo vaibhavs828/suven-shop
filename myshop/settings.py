@@ -25,7 +25,7 @@ SECRET_KEY = '$#9v_eun2rmqjon69qynb))5*&&us9er+(rhs-8)&tvtx=@%9^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["127.0.0.1","suven-shop.herokuapp.com"]
 
 
 # Application definition
